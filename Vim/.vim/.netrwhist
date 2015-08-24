@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/usr/include/unicode'
+let g:netrw_dirhist_2='/home/Leon/Source/redis/redis-3.0-annot/src'
+let g:netrw_dirhist_3='/home/Leon/Source/redis/redis-2.8.17'
